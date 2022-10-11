@@ -1,0 +1,23 @@
+{
+  "name": "hellocucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisova-projects/hellocucumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisova-projects/hellocucumber/issues"
+  },
+  "homepage": "https://github.com/alisova-projects/hellocucumber#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.6.0"
+  }
+}
